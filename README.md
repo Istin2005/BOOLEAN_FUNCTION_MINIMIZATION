@@ -72,7 +72,8 @@ endmodule
 
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
 ## Timing Diagram
-![ex2o](https://github.com/user-attachments/assets/197bcc56-fe7d-42df-bbe6-e0521f0d13b9)
+![Screenshot 2024-10-03 113526](https://github.com/user-attachments/assets/d18dada3-a181-4dd5-8b43-08cfd4c05fc2)
+
 
 
 
