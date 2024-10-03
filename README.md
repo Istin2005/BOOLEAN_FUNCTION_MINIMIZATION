@@ -38,6 +38,7 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: ISTIN B
 RegisterNumber:212223040068
 ```
+```
 module Boolean_min(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
