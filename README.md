@@ -62,12 +62,14 @@ endmodule
 
 
 ## RTL realization
-![Screenshot (19)](https://github.com/SanjayK2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979178/ef48fcfa-6d2b-4c00-b704-2e1fc4d56af4)
+![Screenshot (179)](https://github.com/user-attachments/assets/f4386c97-d12e-401b-afb2-8fb3cf7f4830)
+
 
 ## Truth table
 ![316294144-348e89c8-b4d6-4c9e-8783-541ac0829105](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/89a5b37e-718b-44ec-806f-153c2772eca4)
 ## Timing Diagram
-![Screenshot 2024-03-13 161036](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/533d1307-308c-4a6d-9495-b6f289bf8479)
+![Screenshot (180)](https://github.com/user-attachments/assets/46489e54-d662-4bde-968c-046fc5184039)
+
 
 ## Result:
 
