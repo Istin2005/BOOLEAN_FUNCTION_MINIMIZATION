@@ -66,9 +66,13 @@ endmodule
 
 
 ## Truth table
-![316294144-348e89c8-b4d6-4c9e-8783-541ac0829105](https://github.com/aaron-h-2k5/BOOLEAN_FUNCTION_MINIMIZATION/assets/144250957/89a5b37e-718b-44ec-806f-153c2772eca4)
+![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/a9ccb75e-db7b-490e-8b69-10f820e6bff4)
+
+
+![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
 ## Timing Diagram
-![Screenshot (180)](https://github.com/user-attachments/assets/46489e54-d662-4bde-968c-046fc5184039)
+![ex2o](https://github.com/user-attachments/assets/197bcc56-fe7d-42df-bbe6-e0521f0d13b9)
+
 
 
 ## Result:
